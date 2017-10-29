@@ -1,9 +1,0 @@
-{
-  "name": "desktop-charactor",
-  "version": "1.0.0",
-  "main": "main.js",
-  "dependencies": {
-    "request": "*",
-    "request-promise": "*"
-  }
-}
